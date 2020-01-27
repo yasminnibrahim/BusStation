@@ -1,0 +1,5 @@
+Cairo 100
+Alexandria 60
+Lybia 500
+SharmElSheikh 200
+Ismailia 50
